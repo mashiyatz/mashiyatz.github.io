@@ -33,7 +33,12 @@ header .profilePhoto {
 	width: 259px;
 	border-radius: 50%;
 	height: 259px;
+	overflow: hidden;
 	clear: both;
+}
+header .me {
+	max-height: 259px;
+	margin: 0px 0px 0px -45px;
 }
 header .profileHeader h1 {
 	font-family: 'Montserrat', sans-serif;
