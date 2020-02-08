@@ -217,11 +217,10 @@ header .socialNetworkNavBar .socialNetworkNav {
 	margin-top: 10%;
 	text-align: justify;
 	margin-bottom: 10%;
-/*	display: flex;*/
-/*	vertical-align: center;*/
 }
 	
 .workIcon {
+	width: 100%;
 	text-align: center;
 }	
 	
