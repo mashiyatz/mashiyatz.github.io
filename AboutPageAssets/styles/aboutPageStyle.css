@@ -9,6 +9,13 @@ body {
 	padding-left: 2.275%;
 	padding-right: 2.275%;
 }
+a:link {
+	color: darkgreen;
+}
+a:visited {
+	color: darkolivegreen;
+}
+
 /* Header */
 header {
 	text-align: center;
@@ -130,7 +137,7 @@ header .socialNetworkNavBar .socialNetworkNav img:hover {
 .mainContent .externalResourcesNav .externalResources:hover {
 	background-color: rgba(153,153,153,1.00);
 }
-.externalResourcesNav .externalResources a {
+.externalResourcesNav a .externalResources {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(255,255,255,1.00);
 	font-size: 14px;
