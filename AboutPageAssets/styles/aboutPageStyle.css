@@ -196,6 +196,7 @@ header .socialNetworkNavBar .socialNetworkNav {
 	width: 60px;
 	height: 60px;
 	display: inline-block;
+	margin-left: 23px;
 	margin-right: 23px;
 }
 
@@ -281,8 +282,7 @@ header .socialNetworkNavBar .socialNetworkNav {
 .section .sectionContent {
 	padding: 0px;
 	font-family: sans-serif;
-/*	display: flex;*/
-/*	align-items: center;*/
+	height: 250px;
 }
 	
 .sectionText {
